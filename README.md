@@ -6,6 +6,10 @@
 
 ---
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=iAsure&theme=react&hide_border=true)
+
+---
+
 ### 🚀 Proyectos Destacados
 - [**Discord Arts**](https://www.npmjs.com/package/discord-arts) - Una muestra de mi habilidad para integrar diseño y funcionalidad.
 - [**Axolotl Bot**](https://discord.com/application-directory/863313703072170014) - Bot de Discord enfocado en la generacion de imagenes 3D basadas en Minecraft.
@@ -13,9 +17,3 @@
 ### 📫 Conéctate conmigo
 - 📧 [rafael@asure.dev](mailto:rafael@asure.dev)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/iasure/)
-
----
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=iAsure&theme=react&hide_border=true)
-
-
