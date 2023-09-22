@@ -6,10 +6,6 @@
 
 ---
 
-Soy un entusiasta de la tecnología con un ferviente interés en la materialización de ideas innovadoras. Mi pasión se extiende desde la astronomía hasta el diseño y desarrollo de soluciones tecnológicas. Aunque tengo un profundo amor por los videojuegos y los gatos, mi verdadera motivación radica en la capacidad de transformar visiones en realidades tangibles a través de la programación y el diseño.
-
----
-
 ![](https://github-readme-stats.vercel.app/api?username=iAsure&theme=react&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iAsure&theme=react&hide_border=true)
 
