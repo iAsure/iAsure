@@ -2,7 +2,7 @@
 
 **Backend Developer | Designer | Technology Innovator**
 
-> I am a technology enthusiast with a fervent interest in the materialization of innovative ideas. My passion extends from astronomy to the design and development of technological solutions. Although I have a deep love for video games and cats, my true motivation lies in the ability to transform visions into tangible realities through programming and design.
+> A tech voyager in a universe of code and creativity. I materialize visions through design and development, merging passions from astronomy to the virtual realm. Committed to bringing ideas to life and exploring new digital horizons.
 
 ---
 
